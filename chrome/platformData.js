@@ -143,9 +143,43 @@ var versionHint = {
         },
 
         {
-          'name': 'Android 2.1 Froyo (API level 8)',
-          'fromDate': '2010/05/20',
-          'toDate': '2010/12/05'
+          'name': 'Android 2.1 Eclair (API level 7)',
+          'fromDate': '2010/01/12',
+          'toDate': '2010/05/19'
+        },
+        {
+          'name': 'Android 2.0.1 Eclair (API level 6)',
+          'fromDate': '2009/12/03',
+          'toDate': '2010/01/11'
+        },
+        {
+          'name': 'Android 2.0 Eclair (API level 5)',
+          'fromDate': '2009/10/26',
+          'toDate': '2009/12/02'
+        },
+
+        {
+          'name': 'Android 1.6 Donut (API level 4)',
+          'fromDate': '2009/09/15',
+          'toDate': '2009/10/25'
+        },
+
+        {
+          'name': 'Android 1.5 Cupcake (API level 3)',
+          'fromDate': '2009/04/27',
+          'toDate': '2009/09/14'
+        },
+
+        {
+          'name': 'Android 1.1 (API level 2)',
+          'fromDate': '2009/02/09',
+          'toDate': '2009/04/26'
+        },
+
+        {
+          'name': 'Android 1.0 (API level 1)',
+          'fromDate': '2008/09/23',
+          'toDate': '2009/02/08'
         }
       ]
     }
