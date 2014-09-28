@@ -15,7 +15,7 @@ This version has support for the following platforms:
 - iOS
 - Android
 
-![VersionHint screenshot](https://raw.githubusercontent.com/mac-cain13/versionhint/screenshots/versionhint001.png)
+![VersionHint screenshot](screenshots/versionhint001.png)
 
 ## License & acknowledgements
 
